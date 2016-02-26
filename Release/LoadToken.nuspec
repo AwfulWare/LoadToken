@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>LoadToken</id>
+        <version>1.0.0</version>
+        <authors>AwfulWare</authors>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Get MethodInfo</description>
+    </metadata>
+    <files>
+        <file src="LoadToken\LoadToken.dll" target="lib\LoadToken.dll" />
+    </files>
+</package>
